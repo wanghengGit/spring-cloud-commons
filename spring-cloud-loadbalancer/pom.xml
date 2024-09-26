@@ -7,7 +7,7 @@
 		<groupId>org.springframework.cloud</groupId>
 		<artifactId>spring-cloud-commons-parent</artifactId>
 		<version>4.1.4-SNAPSHOT</version>
-		<relativePath>..</relativePath>
+<!--		<relativePath>..</relativePath>-->
 	</parent>
 	<artifactId>spring-cloud-loadbalancer</artifactId>
 	<packaging>jar</packaging>
@@ -144,4 +144,5 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
 </project>
